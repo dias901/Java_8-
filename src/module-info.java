@@ -1,0 +1,2 @@
+module lucas_2 {
+}
